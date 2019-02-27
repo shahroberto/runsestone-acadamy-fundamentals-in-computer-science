@@ -1,2 +1,2 @@
 # runsestone-acadamy-funcamentals-in-computer-science
-My practice problems to learn about computer science fundamentals following an outline made by Runestone Academy
+Problem sets that practice computer science fundamentals, including data structures and algorithms, following an outline made by Runestone Academy
